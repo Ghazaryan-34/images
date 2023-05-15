@@ -1,20 +1,5 @@
 {
-	"images2": [{
-			"Image_1": "https://www.gutenberg.org/files/2701/2701-0.txt",
-			"Description": "Descr_1"
-		},
-		{
-			"Image_1": "https://redkey.pro/storage/app/media/confirmed/soglasie.pdf",
-			"Description": "Descr_2"
-		},
-		{
-			"Image_1": "https://www.awaresystems.be/imaging/tiff/specification/TIFF6.pdf",
-			"Description": "description_3"
-		},
-		{
-			"Image_1": "https://file-examples.com/wp-content/uploads/2017/02/file_example_XLS_10.xls",
-			"Description": "description_4"
-		},
+	"images2": [
 		{
 			"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
 			"Description": "Descr_5"
