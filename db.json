@@ -1,19 +1,15 @@
 {
 	"images2": [{
-"Image_1": "",
-"Description": ""
-},
-{
-"Image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
-"Description": "Descr_2"
-},
-{
-"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
-"Description": "descr3"
-},
-{
-"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
-"Description": ""
-}
+			"Image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
+			"Description": "Descr_1"
+		},
+		{
+			"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
+			"Description": "Descr_2"
+		},
+		{
+			"Image_1": "https://effigis.com/wp-content/themes/effigis_2014/img/GeoEye_GeoEye1_50cm_8bit_RGB_DRA_Mining_2009FEB14_8bits_sub_r_15.jpg",
+			"Description": "descr3"
+		}
 	]
 }
