@@ -6,19 +6,19 @@
 		},
 		{
 			"Image_1": null,
-			"Description": "Descr_1, long text, long____text, Descr_1, long text, long____text,Descr_1, long text, long____text,Descr_1, long text, long____text"
+			"Description": "Descr_2"
 		},
 		{
 			"Image_1": "https://kinsta.com/wp-content/uploads/2017/04/SVG-size.png",
-			"Description": "Descr_1, long text, long____text, Descr_1, long text, long____text,Descr_1, long text, long____text,Descr_1, long text, long____text"
+			"Description": "Descr_3"
 		},
 		{
 			"Image_1": null,
-			"Description": "Descr_1, long text, long____text, Descr_1, long text, long____text,Descr_1, long text, long____text,Descr_1, long text, long____text"
+			"Description": "Descr_4"
 		},
 		{
 			"Image_1": "https://kinsta.com/wp-content/uploads/2017/04/SVG-size.png",
-			"Description": "description with symbols 123456798!@#$%^&*(((((((((((()_+"
+			"Description": "Descr_5"
 		}
 	]
 }
