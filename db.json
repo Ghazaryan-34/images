@@ -8,8 +8,44 @@
 			"Description": "Descr_2"
 		},
 		{
-			"Image_1": "https://effigis.com/wp-content/themes/effigis_2014/img/GeoEye_GeoEye1_50cm_8bit_RGB_DRA_Mining_2009FEB14_8bits_sub_r_15.jpg",
+			"Image_1": "https://www.sefram.com/images/products/photos/hi_res/9816B.jpg",
 			"Description": "descr3"
+		},
+		{
+			"Image_1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/JPEG_compression_Example.jpg/800px-JPEG_compression_Example.jpg?20131128110950",
+			"Description": "descr4"
+		},
+		{
+			"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
+			"Description": "Descr_5"
+		},
+		{
+			"Image_1": "https://www.sefram.com/images/products/photos/hi_res/9816B.jpg",
+			"Description": "descr6"
+		},
+		{
+			"Image_1": "https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_2048.jpg",
+			"Description": "Descr_7"
+		},
+		{
+			"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
+			"Description": "Descr_8"
+		},
+		{
+			"Image_1": "https://www.sefram.com/images/products/photos/hi_res/9822.jpg",
+			"Description": "descr9"
+		},
+		{
+			"Image_1": "https://www.sefram.com/images/products/photos/hi_res/9816B.jpg",
+			"Description": "Descr_10"
+		},
+		{
+			"Image_1": "https://images.dog.ceo/breeds/beagle/n02088364_17406.jpg",
+			"Description": "descr11"
+		},
+		{
+			"Image_1": "https://www.w3schools.com/w3images/mountains.jpg",
+			"Description": "descr12"
 		}
 	]
 }
